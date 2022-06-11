@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qiumairui-github-io.vercel.app</id>
+    <title>秋麦的资料小铺</title>
+    <updated>2022-06-11T04:44:38.253Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qiumairui-github-io.vercel.app"/>
+    <link rel="self" href="https://qiumairui-github-io.vercel.app/atom.xml"/>
+    <subtitle>多语种外刊~小语种学习资料~</subtitle>
+    <logo>https://qiumairui-github-io.vercel.app/images/avatar.png</logo>
+    <icon>https://qiumairui-github-io.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2022, 秋麦的资料小铺</rights>
+    <entry>
+        <title type="html"><![CDATA[法语外刊资源目录（2022年更新版）]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/fa-yu-wai-kan-zi-yuan-mu-lu-2022-nian-geng-xin-ban/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/fa-yu-wai-kan-zi-yuan-mu-lu-2022-nian-geng-xin-ban/">
+        </link>
+        <updated>2022-06-10T11:23:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英语百刊-资源获取～]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/ying-yu-bai-kan-zi-yuan-huo-qu/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/ying-yu-bai-kan-zi-yuan-huo-qu/">
+        </link>
+        <updated>2022-06-10T10:18:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英语外刊资源更新目录（2022年更新版）]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/ying-yu-wai-kan-zi-yuan-geng-xin-mu-lu-2022-nian-geng-xin-ban/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/ying-yu-wai-kan-zi-yuan-geng-xin-mu-lu-2022-nian-geng-xin-ban/">
+        </link>
+        <updated>2022-06-10T09:45:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<p>秋麦的资料小铺<br>
+外刊资料每日更新<br>
+多语言资料学子库.</p>
+<h2 id="更新背景介绍">更新背景介绍</h2>
+<p>哈喽，大家好呀～这里是秋麦的资料小铺～<br>
+本次更新重新给已有的报纸，<br>
+做了增刊处理～<br>
+增加的报纸目录已经为大家重新整理好啦～<br>
+可以查看下面的最新报纸目录～<br>
+如果还是有些刊物没有涉及到<br>
+那就来找秋定制吧～</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<p>秋麦的资料小铺<br>
+外刊资料每日更新<br>
+多语言资料学子库.</p>
+<h2 id="更新背景介绍">更新背景介绍</h2>
+<p>哈喽，大家好呀～这里是秋麦的资料小铺～<br>
+本次更新重新给已有的报纸，<br>
+做了增刊处理～<br>
+增加的报纸目录已经为大家重新整理好啦～<br>
+可以查看下面的最新报纸目录～<br>
+如果还是有些刊物没有涉及到<br>
+那就来找秋定制吧～</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小语种外刊资源获取]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/xiao-yu-chong-wai-kan-zi-yuan-huo-qu/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/xiao-yu-chong-wai-kan-zi-yuan-huo-qu/">
+        </link>
+        <updated>2022-06-08T10:36:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小语种外刊目录]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/xiao-yu-chong-wai-kan-mu-lu/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/xiao-yu-chong-wai-kan-mu-lu/">
+        </link>
+        <updated>2022-06-01T01:28:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[付款账单⬇️⬇️⬇️]]></title>
+        <id>https://qiumairui-github-io.vercel.app/post/fu-kuan-zhang-dan/</id>
+        <link href="https://qiumairui-github-io.vercel.app/post/fu-kuan-zhang-dan/">
+        </link>
+        <updated>2022-04-12T03:57:50.000Z</updated>
+    </entry>
+</feed>
